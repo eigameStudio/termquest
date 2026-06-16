@@ -1,8 +1,9 @@
 CUSTOM SOURCE CODE LICENSE
 Copyright (c) 2026 eigamestudio. All rights reserved.
 
-1. GRANT OF LICENSE
-eigamestudio grants you the right to use, view, copy, and modify the source code in "termquest.v1.py" and "termquestserver.v1.py" for personal, educational, or game development purposes.
+1. GRANT OF LICENSE & SHARE-ALIKE REQUIREMENT
+(a) eigamestudio grants you the right to use, view, copy, and modify the source code in "termquest.v1.py" and "termquestserver.v1.py" for personal, educational, or game development purposes.
+(b) SHARE-ALIKE: If you alter, transform, modify, or build upon this source code, you MUST distribute the resulting modified software under this exact same CUSTOM SOURCE CODE LICENSE and preserve the "Copyright (c) 2026 eigamestudio" notice. You are strictly forbidden from placing modified versions under any other license.
 
 2. RESTRICTIONS ON USE (ACCEPTABLE USE POLICY)
 You strictly AGREE NOT TO use, modify, distribute, or host this software—or any works derived from it—for any purposes or content that is:
@@ -11,7 +12,7 @@ You strictly AGREE NOT TO use, modify, distribute, or host this software—or an
    (c) Used for cyberattacks, hacking, malware, or unauthorized network intrusion.
 
 3. TERMINATION, 24-HOUR NOTICE, AND LEGAL REMEDIES
-Any violation of Section 2 immediately and automatically terminates your right to use this software. Upon receiving a notice of violation from eigamestudio, you have exactly twenty-four (24) hours to completely delete all copies of our source code and remove your project from all hosting platforms. 
+Any violation of Section 1 or Section 2 immediately and automatically terminates your right to use this software. Upon receiving a notice of violation from eigamestudio, you have exactly twenty-four (24) hours to completely delete all copies of our source code and remove your project from all hosting platforms. 
 
 If you fail to comply within 24 hours, eigamestudio will immediately enforce this through Digital Millennium Copyright Act (DMCA) takedown requests, platform bans, and legal action for breach of contract.
 
